@@ -1,0 +1,6 @@
+emoji
+nltk
+pyspellchecker
+spacy
+textBlob
+transformers
