@@ -1,9 +1,11 @@
 ## Contributing
+
 La rama de producción es `main` y debe tratarse como tal.
 La rama de desarrollo es `dev`. Cada característica debe ser una rama separada, originada desde `dev`.
 Una vez que una característica esté lista, puede fusionarse con `dev`, y si todo está bien, entonces se fusionará con `main`.
 
 ## Nombres de Branches
+
 - *WIP/nombrecaracterística* - Para trabajo en progreso, cosas que no terminarán pronto
 - *FEAT/nombrecaracterística* - Para características que se agregarán o ampliarán
 - *BUG/nombrebug* - Para errores
@@ -14,6 +16,7 @@ Una vez que una característica esté lista, puede fusionarse con `dev`, y si to
 - *MISC/nombrevarios* - Para cualquier otra cosa (no abusar)
 
 ## Nombres de Commits
+
 - *[ADD] mensaje* - Para agregar
 - *[MOD] mensaje* - Para modificar
 - *[REM] mensaje* - Para eliminar (remove)
